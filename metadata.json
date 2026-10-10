@@ -1,0 +1,6 @@
+{
+  "name": "King of Pop - Michael Jackson Music Experience",
+  "description": "Interactive Michael Jackson music player with real-time synthesizer engine, illuminated dance floor, and iconic soundboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
